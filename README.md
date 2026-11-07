@@ -4,10 +4,10 @@
 
 ```typescript
 interface RadarDataAirline {
-    icao: UKE
-    name: Air Ukraine
-    callsign: AIRUKRAINE
-    virtual: true
+    icao: string
+    name: string
+    callsign: string
+    virtual: boolean
 }
 ```
 
